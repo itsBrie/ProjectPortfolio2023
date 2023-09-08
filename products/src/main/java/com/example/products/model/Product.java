@@ -1,5 +1,5 @@
 package com.example.products.model;
-
+//describes the product name, and attributes
 public class Product {
     private String name;
     private double price;

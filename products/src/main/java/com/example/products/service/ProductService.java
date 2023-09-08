@@ -1,5 +1,5 @@
 package com.example.products.service;
-
+//implements the app's use cases (creates methods)
 import com.example.products.ProductsApplication;
 import com.example.products.model.Product;
 import org.springframework.stereotype.Service;
